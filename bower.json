@@ -1,0 +1,31 @@
+{
+  "name": "portfolio",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Rhu <contact@rhuaridh.co.uk>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "http://www.rhuaridh.co.uk/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.13",
+    "bootstrap": "~3.3.2",
+    "angular-bootstrap": "~0.14.3",
+    "angular-resource": "~1.4.7",
+    "moment": "~2.10.6",
+    "font-awesome": "fontawesome#~4.4.0",
+    "angular-ui-grid": "~3.1.0",
+    "ng-file-upload": "^12.0.4",
+    "angular-xeditable": "^0.1.12",
+    "angular-animate": "^1.5.7",
+    "angular-toastr": "^1.7.0"
+  }
+}
