@@ -1,0 +1,29 @@
+/* UI Grid Customisation Start */
+.ui-grid-header-cell-row .ui-grid-header-cell {
+  background: #fff;
+  margin: 0px; }
+
+.ui-grid-cell-contents {
+  line-height: 1.42857143;
+  padding: 11px; }
+
+.ui-grid-cell {
+  border-bottom: 1px solid;
+  border-color: #d4d4d4; }
+
+.ui-grid-column-menu-button {
+  position: absolute;
+  right: 7px;
+  top: 8px; }
+
+.ui-grid-menu .ui-grid-menu-inner ul li button:hover, .ui-grid-menu .ui-grid-menu-inner ul li button:focus {
+  box-shadow: none;
+  background-color: #CCC; }
+
+.pagination li {
+  cursor: pointer;
+  cursor: hand; }
+
+/* UI Grid Customisation End */
+
+/*# sourceMappingURL=app.css.map */
